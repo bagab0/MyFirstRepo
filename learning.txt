@@ -1,0 +1,2 @@
+Something I've Learned So Far:
+One important thing I’ve learned so far in this course is how to use Git and GitHub to manage code versions and collaborate with others. I now understand how to clone a repository, make changes, commit them with meaningful messages, and push the updates to GitHub. This has helped me see how professional developers work together on projects and keep their code organized.
